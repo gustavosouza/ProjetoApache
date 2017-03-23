@@ -1,5 +1,5 @@
 <?php
-Route::get('/', 'IndexControllerController@inicia');
+Route::get('/', 'IndexController@inicia');
 Route::get('/home', 'IndexController@inicia');
 
 Route::get('/Cliente/lista','ClienteController@lista');

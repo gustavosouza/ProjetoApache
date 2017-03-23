@@ -1,0 +1,8 @@
+.navbar-inverse {
+  background-color: #ececec;
+}
+
+.navbar-inverse .navbar-brand:hover{
+  background-color: transparent;
+  color: #000000;
+}
